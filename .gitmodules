@@ -1,0 +1,9 @@
+[submodule "opendistro-security"]
+	path = opendistro-security
+	url = https://github.com/vulnbe/opendistro-security
+[submodule "opendistro-security-ssl"]
+	path = opendistro-security-ssl
+	url = https://github.com/vulnbe/opendistro-security-ssl
+[submodule "opendistro-security-advanced-modules"]
+	path = opendistro-security-advanced-modules
+	url = https://github.com/vulnbe/opendistro-security-advanced-modules
